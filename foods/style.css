@@ -1,0 +1,33 @@
+.totals {
+    width: 70%;
+    height: 150;
+/*    background-color: black;*/
+    margin-left: 15%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 35;
+}
+
+a#bfast{
+    font-size: 30;
+    color: red;
+}
+
+div#items {
+    height: 80;
+    font-size: 30;
+    color: darkgoldenrod;
+}
+
+a#calories{
+    font-size: 50;
+    color: red;
+}
+
+.title{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40;
+    font-color: red;
+    color: red;
+}

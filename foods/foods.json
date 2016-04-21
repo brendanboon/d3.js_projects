@@ -1,0 +1,106 @@
+[
+ {"type":"fruit",
+  "name" : "Banana",
+  "calories": 105
+ },
+ {"type":"fruit",
+  "name" : "Avocado",
+  "calories": 234
+ },
+ {"type":"fruit",
+  "name" : "fig",
+  "calories": 37
+ }, 
+ {"type":"fruit",
+  "name" : "kiwi",
+  "calories": 42
+ },
+ {"type":"fruit",
+  "name" : "peach",
+  "calories": 59
+ },
+ {"type":"fruit",
+  "name" : "grapefruit",
+  "calories": 52
+ },
+ {"type":"drink",
+  "name" : "Orange Juice",
+  "calories": 111
+ }, 
+ {"type":"drink",
+  "name" : "Tom Juice",
+  "calories": 42
+ },
+ {"type":"drink",
+  "name" : "Apple Juice",
+  "calories": 113
+ }, 
+ {"type":"drink",
+  "name" : "1% Milk",
+  "calories": 103
+ },
+ {"type":"drink",
+  "name" : "2% Milk",
+  "calories": 124
+ },
+ {"type":"drink",
+  "name" : "Whole Milk",
+  "calories": 148
+ }, 
+ {"type":"drink",
+  "name" : "Skim Milk",
+  "calories": 83
+ }, 
+ {"type":"drink",
+  "name" : "Coca Cola",
+  "calories": 182
+ },
+ {"type":"drink",
+  "name" : "Sprite",
+  "calories": 192
+ },
+ {"type":"grain",
+  "name" : "Oatmeal",
+  "calories": 107
+ },
+ {"type":"grain",
+  "name" : "Cereal",
+  "calories": 100
+ }, 
+ {"type":"grain",
+  "name" : "White Bread",
+  "calories": 79
+ }, 
+ {"type":"grain",
+  "name" : "Wheat Bread",
+  "calories": 75
+ }, 
+ {"type":"grain",
+  "name" : "Bagel",
+  "calories": 245
+ }, 
+ {"type":"grain",
+  "name" : "Rye Bread",
+  "calories": 65
+ },
+ {"type":"meat",
+  "name" : "Fried Egg",
+  "calories": 90
+ }, 
+ {"type":"meat",
+  "name" : "Scram. Egg",
+  "calories": 91
+ },
+ {"type":"meat",
+  "name" : "Bacon",
+  "calories": 43
+ },
+ {"type":"meat",
+  "name" : "Can \n Bacon",
+  "calories": 45
+ }, 
+ {"type":"meat",
+  "name" : "Sausage",
+  "calories": 229
+ }
+]
