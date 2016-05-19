@@ -1,0 +1,21 @@
+{
+  "name": "us-atlas",
+  "version": "0.0.4",
+  "description": "Roll your own TopoJSON from the National Atlas one million-scale dataset.",
+  "keywords": [
+    "topojson",
+    "geojson",
+    "shapefile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ryanbrounley/d3.js_projects"
+  },
+  "devDependencies": {
+    "shapefile": "0.1",
+    "topojson": ">=1.6.2 <2"
+  },
+  "optionalDependencies": {
+    "d3": "3"
+  }
+}

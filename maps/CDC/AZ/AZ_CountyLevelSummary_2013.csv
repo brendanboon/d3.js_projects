@@ -1,0 +1,22 @@
+"CBLS County-level Summary Data for AZ, 2013",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Confirmed Cases,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+001,Apache County,371,69,4,1.09999999403954%,1,31621,1599,44.9999988079071%
+003,Cochise County,1713,28,5,0.300000002607703%,1,51126,6312,28.0000001192093%
+005,Coconino County,816,14,2,0.20000000949949%,0,53443,2496,23.9999994635582%
+007,Gila County,166,2,2,1.20000001043081%,2,28189,2910,27.0000010728836%
+009,Graham County,263,3,0,0%,1,11430,1505,28.0000001192093%
+011,Greenlee County,57,1,0,0%,0,3744,727,12.9999995231628%
+012,La Paz County,75,.,0,0%,0,15133,498,30.0000011920929%
+013,Maricopa County,37474,236,43,0.100000004749745%,18,1250231,41878,17.0000001788139%
+015,Mohave County,857,6,0,0%,1,80062,1184,23.9999994635582%
+017,Navajo County,730,25,2,0.300000002607703%,0,47413,2755,40.0000005960465%
+019,Pima County,6041,43,8,0.100000004749745%,3,366737,24679,21.9999998807907%
+021,Pinal County,2537,20,1,0%,0,81154,3423,27.0000010728836%
+023,Santa Cruz Coun,954,9,1,0.100000004749745%,0,13036,1518,31.9999992847443%
+025,Yavapai County,597,8,0,0%,0,81730,5224,20.0000002980232%
+027,Yuma County,2589,14,3,0.100000004749745%,1,74140,3278,28.0000001192093%
+,,,,,,,,,
+"* Based on most recent five years of data, 2009-2013",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

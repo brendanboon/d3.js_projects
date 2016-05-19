@@ -1,0 +1,19 @@
+"CBLS County-level Summary Data for DC, 2014",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Total Confirmed BLL ?10 µg/dL,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+998,Unknown County,3046,36,11,0.36112934996717%,0,,,
+001,District of Col,11832,187,43,0.400000018998981%,6,274845,141138,33.0000013113022%
+003,Anne Arundel Co,7,.,0,0%,0,186937,23437,7.00000002980232%
+017,Charles County,10,.,0,0%,0,43903,3212,5.00000007450581%
+031,Montgomery Coun,100,3,1,0.999999977648258%,0,334632,37592,5.99999986588955%
+013,Arlington Count,18,.,0,0%,0,90426,28193,7.99999982118607%
+059,Fairfax County,36,2,0,0%,0,359411,15488,5.00000007450581%
+107,Loudoun County,6,.,0,0%,0,62160,4239,1.99999995529652%
+153,Prince William,16,.,0,0%,0,98052,2994,5.99999986588955%
+*# of Addresses where address state not in selected state: 886,# of Addresses where program state is not in selected state: 7,,,,,,,,
+*# of Addresses where address state not in selected state: 886,# of Addresses where program state is not in selected state: 1,,,,,,,,
+*# of Addresses where address state not in selected state: 886,# of Addresses where program state is not in selected state: 2,,,,,,,,
+,,,,,,,,,
+"* Based on most recent five years of data, 2010-2014",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

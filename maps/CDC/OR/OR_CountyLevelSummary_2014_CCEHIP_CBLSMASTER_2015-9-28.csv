@@ -1,0 +1,40 @@
+"CBLS County-level Summary Data for OR, 2014",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Confirmed Cases,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+,Unknown County,2381,49,4,0%,0,,,
+001,Baker County,n,n,n,n,n,8402,3156,18.9999997615814%
+003,Benton County,25,.,0,0%,0,31980,5033,14.0000000596046%
+005,Clackamas Count,549,6,0,0%,0,136954,18830,10.0000001490116%
+007,Clatsop County,91,1,2,2.19999998807907%,0,19685,7463,23.0000004172325%
+009,Columbia County,139,1,0,0%,0,17572,4339,15.0000005960464%
+011,Coos County,n,n,n,n,n,29247,6689,25%
+015,Curry County,8,.,0,0%,0,11406,885,11.9999997317791%
+017,Deschutes Count,n,n,n,n,n,54583,4102,10.9999999403954%
+019,Douglas County,140,3,0,0%,0,43284,7800,21.9999998807907%
+021,Gilliam County,n,n,n,n,n,1043,497,14.0000000596046%
+027,Hood River Coun,39,1,0,0%,0,7818,2176,21.9999998807907%
+029,Jackson County,110,1,0,0%,1,75737,11306,20.0000002980232%
+033,Josephine Count,82,1,0,0%,0,33239,4478,27.0000010728836%
+035,Klamath County,39,.,0,0%,0,28883,7659,25.9999990463257%
+037,Lake County,n,n,n,n,n,3999,1103,23.9999994635582%
+039,Lane County,81,1,1,1.20000001043081%,0,138946,22595,20.0000002980232%
+041,Lincoln County,47,.,0,0%,0,26889,4457,23.0000004172325%
+043,Linn County,95,5,0,0%,0,42521,8691,18.0000007152557%
+045,Malheur County,28,2,0,0%,0,11233,2757,28.0000001192093%
+047,Marion County,559,5,0,0%,1,108174,17026,21.9999998807907%
+049,Morrow County,n,n,n,n,n,4276,806,23.0000004172325%
+051,Multnomah Count,5949,117,4,0.100000004749745%,1,288561,112407,17.0000001788139%
+053,Polk County,117,.,0,0%,0,24461,4467,17.0000001788139%
+055,Sherman County,6,1,0,0%,0,935,377,18.0000007152557%
+057,Tillamook Count,31,1,0,0%,0,15906,3801,20.0000002980232%
+059,Umatilla County,65,4,0,0%,0,27676,6978,20.0000002980232%
+061,Union County,9,3,1,11.1000001430512%,0,10603,3864,18.9999997615814%
+063,Wallowa County,n,n,n,n,n,3900,1413,28.0000001192093%
+065,Wasco County,68,.,0,0%,0,10651,2990,20.0000002980232%
+067,Washington Coun,1148,88,2,0.20000000949949%,1,178913,11239,9.00000035762787%
+071,Yamhill County,203,.,0,0%,0,30270,5937,11.9999997317791%
+*# of Addresses where address state not in selected state: 2381,# of Addresses where program state is not in selected state: 0,,,,,,,,
+,,,,,,,,,
+"* Based on most recent five years of data, 2010-2014",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

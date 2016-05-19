@@ -1,0 +1,22 @@
+"CBLS County-level Summary Data for MA, 2014",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Total Confirmed BLL ?10 µg/dL,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+001,Barnstable Coun,3981,115,n,n,0,147083,24993,7.99999982118607%
+003,Berkshire Count,3442,241,25,0.700000021606684%,6,66301,33453,15.0000005960464%
+005,Bristol County,19325,699,66,0.300000002607703%,18,216918,94216,15.0000005960464%
+007,Dukes County,177,n,n,n,0,14836,3617,10.0000001490116%
+009,Essex County,26773,775,105,0.400000018998981%,27,287144,133474,11.9999997317791%
+011,Franklin County,1321,61,n,0.700000021606684%,1,31939,14872,12.9999995231628%
+013,Hampden County,16735,673,116,0.700000021606684%,34,185876,73635,25.9999990463257%
+015,Hampshire Count,2810,73,16,0.600000005215406%,5,58644,20868,9.00000035762787%
+017,Middlesex Count,48171,1070,121,0.300000002607703%,26,576681,258816,5.99999986588955%
+019,Nantucket Count,221,n,n,n,1,9210,2444,2.99999993294477%
+021,Norfolk County,20255,364,30,0.100000004749745%,9,255154,100376,3.99999991059303%
+023,Plymouth County,15821,548,63,0.400000018998981%,12,181524,59052,9.00000035762787%
+025,Suffolk County,28097,815,121,0.400000018998981%,21,292520,179412,25%
+027,Worcester Count,24039,774,101,0.400000018998981%,23,298159,122324,11.9999997317791%
+*# of Addresses where address state not in selected state: 2,# of Addresses where program state is not in selected state: 0,,,,,,,,
+,,,,,,,,,
+"* Based on most recent five years of data, 2010-2014",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

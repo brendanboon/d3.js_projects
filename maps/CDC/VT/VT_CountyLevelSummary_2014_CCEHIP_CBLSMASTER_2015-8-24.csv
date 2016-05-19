@@ -1,0 +1,21 @@
+"CBLS County-level Summary Data for VT, 2014",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Total Confirmed BLL ?10 µg/dL,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+001,Addison County,147,6,0,0%,0,15312,5665,10.0000001490116%
+003,Bennington Coun,164,11,3,1.79999992251396%,0,19403,6710,18.0000007152557%
+005,Caledonia Count,135,12,1,0.700000021606684%,1,14504,6191,20.0000002980232%
+007,Chittenden Coun,743,29,1,0.100000004749745%,0,58864,15130,9.00000035762787%
+009,Essex County,31,1,1,3.20000015199184%,1,4762,1525,20.0000002980232%
+011,Franklin County,177,7,0,0%,1,19191,6894,12.9999995231628%
+013,Grand Isle Coun,20,1,0,0%,0,4663,1258,11.9999997317791%
+015,Lamoille County,101,6,0,0%,0,11009,2914,11.9999997317791%
+017,Orange County,130,11,0,0%,0,13386,4820,10.9999999403954%
+019,Orleans County,96,7,0,0%,0,14673,5739,20.0000002980232%
+021,Rutland County,258,19,6,2.30000000447035%,0,32311,12840,18.0000007152557%
+023,Washington Coun,258,29,4,1.60000007599592%,0,27644,10894,11.9999997317791%
+025,Windham County,173,19,2,1.20000001043081%,1,27039,9343,14.0000000596046%
+027,Windsor County,206,9,0,0%,1,31621,11566,9.00000035762787%
+,,,,,,,,,
+"* Based on most recent five years of data, 2010-2014",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

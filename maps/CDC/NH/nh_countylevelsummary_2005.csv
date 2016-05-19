@@ -1,0 +1,17 @@
+"CBLS County-level Summary Data for NH, 2005",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Screening Rate (# tested / population),Total # of Confirmed Cases,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,,"Estimated Population of Children < 6, 2005"
+,,,,,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty,
+001,Belknap County,443,11.8164843958389%,13,8,32121,9269,10.9999999403954%,3749
+003,Carroll County,516,20.5741626794258%,9,2,34750,8081,10.0000001490116%,2508
+005,Cheshire County,1047,22.6672439922061%,30,15,31876,12116,10.9999999403954%,4619
+007,Coos County,411,19.8646689221846%,11,2,19623,8608,15.9999996423721%,2069
+009,Grafton County,520,10.3896103896104%,12,4,43729,14263,10.0000001490116%,5005
+011,Hillsborough County,4960,16.0382849382397%,131,61,149961,41773,9.00000035762787%,30926
+013,Merrimack County,1571,16.2226352746799%,47,12,56244,18116,9.00000035762787%,9684
+015,Rockingham County,2960,13.4637252672277%,19,5,113023,23883,5.00000007450581%,21985
+017,Strafford County,1402,17.3579299244769%,33,3,45539,13908,10.9999999403954%,8077
+019,Sullivan County,688,24.8196248196248%,22,5,20158,7104,12.9999995231628%,2772
+"* Based on most recent five years of data, 2001-2005",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,
+New Hampshire Total Confirmed Cases 2005,,327,,,,,,,

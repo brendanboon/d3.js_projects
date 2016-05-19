@@ -23,7 +23,6 @@ newd3Controller(foodsModel());
         
      returns:
         addFood : method to add food to the list data structure
-        getFoods : getter to grab food list data structure
 **/
 
 function foodsModel(){
@@ -87,7 +86,7 @@ function foodsModel(){
             name : _name,
             calories : _cal,
             type : _type,
-            radius : (.46 * _cal), //scaling circle radius based on calorie count
+            radius : (.42 * _cal), //scaling circle radius based on calorie count
             color : color,
             cx : (i * 380) - 200, //placing x value on page with relation to i value assigned above
             cy : 300,
@@ -112,22 +111,11 @@ function foodsModel(){
         foods.push(newfood);
         return newfood;
     }
-
-    /*  function getFoods:
-            returns the list of foods
-            
-        returns:
-            foods (list)
-    */
-    function getFoods(){
-        return foods;
-    }
-    
-    
+     
     //returns the setters and getters to use in controller
     return {
         addFood : addFood,
-        getFoods : getFoods,
+        foods : foods,
     }
 }
 
@@ -139,17 +127,7 @@ function foodsModel(){
 
 function newd3Controller(_model) {
     var model = _model;
-    
-    /* 
-       height and width copy the width and height values
-       of the div element in html 
-    */ 
-    var height = 550,
-        width = 1500,
-        padding = 10, // separation between nodes
-        maxRadius = 20;
-    
-    
+        
     //Reads foods.json in and adds each listing to the model's food list
     d3.json("foods.json", function(error, data) {
           if(error) return console.warn(error);
@@ -159,6 +137,14 @@ function newd3Controller(_model) {
           attachFood();
         });
 
+    /* 
+       height and width copy the width and height values
+       of the div element in html 
+    */ 
+    var height = 550,
+        width = 1500,
+        padding = 10, // separation between nodes
+        maxRadius = 20;
     
         //creates an svg to use as d3 canvas to the div with id "container"
         var svg = d3.select("#container").append("svg")
@@ -205,7 +191,7 @@ function newd3Controller(_model) {
         //An update method to refresh the data on the graph in case of change
         function attachFood(){
             updateCalories();
-            var nodes = model.getFoods(); //establishes data as model list
+            var nodes = model.foods; //establishes data as model list
 
             //creates force layout on page that applies to all nodes and uses the tick function below
             var force = d3.layout.force()
@@ -274,7 +260,7 @@ function newd3Controller(_model) {
             function updateCalories(){
                 var count = 0;
                 var actives = []; //keeps track of active nodes found in search
-                var foods = model.getFoods();  //all the foods in the model
+                var foods = model.foods;  //all the foods in the model
                 
                 //counts the calories and adds them to a new array
                 for(var i = 0; i < foods.length; i++){
@@ -306,7 +292,7 @@ function newd3Controller(_model) {
             //Handles the movement of all of the nodes and their specific attributes
             function tick(e) {
               circle
-                  .each(gravity(.2 * e.alpha))
+                  .each(gravity(.01 * e.alpha))
                   .each(collide(.5))
                   .attr("cx", function(d) { return d.x; })
                   .attr("cy", function(d) { return d.y; });

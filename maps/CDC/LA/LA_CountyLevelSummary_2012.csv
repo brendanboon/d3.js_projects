@@ -1,0 +1,50 @@
+"CBLS County-level Summary Data for LA, 2012",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Confirmed Cases,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+001,Acadia Parish,n,n,n,n,n,23209,4190,34.9999994039536%
+009,Avoyelles Paris,n,n,n,n,n,16576,2711,33.0000013113022%
+015,Bossier Parish,n,n,n,n,n,40286,2871,23.0000004172325%
+017,Caddo Parish,6,.,6,100%,1,108296,17175,34.0000003576279%
+019,Calcasieu Paris,19,1,3,15.8000007271767%,2,75995,10142,23.0000004172325%
+027,Claiborne Paris,22,1,6,27.3000001907349%,2,7815,1392,40.0000005960465%
+029,Concordia Paris,n,n,n,n,n,9148,1100,46.9999998807907%
+031,De Soto Parish,n,n,n,n,n,11204,1648,36.0000014305115%
+033,East Baton Roug,6,.,2,33.3000004291534%,0,169073,17394,25%
+037,East Feliciana,n,n,n,n,n,7915,941,28.999999165535%
+041,Franklin Parish,n,n,n,n,n,8623,984,50.9999990463257%
+045,Iberia Parish,n,n,n,n,n,27844,4575,36.0000014305115%
+047,Iberville Paris,n,n,n,n,n,11953,2403,30.0000011920929%
+049,Jackson Parish,n,n,n,n,n,7338,1299,21.9999998807907%
+051,Jefferson Paris,10,.,5,50%,1,187907,17377,21.9999998807907%
+053,Jefferson Davis,n,n,n,n,n,12824,2773,28.999999165535%
+055,Lafayette Paris,n,n,n,n,n,78122,6224,20.0000002980232%
+057,Lafourche Paris,n,n,n,n,n,35045,5133,21.9999998807907%
+059,La Salle Parish,n,n,n,n,n,6273,956,23.9999994635582%
+061,Lincoln Parish,n,n,n,n,n,17000,1833,38.9999985694885%
+063,Livingston Pari,n,n,n,n,n,36212,1916,12.9999995231628%
+067,Morehouse Paris,n,n,n,n,n,12711,1769,41.9999986886978%
+069,Natchitoches Pa,n,n,n,n,n,16890,2604,37.9999995231628%
+071,Orleans Parish,30,1,21,69.9999988079071%,9,215091,93108,41.9999986886978%
+073,Ouachita Parish,n,n,n,n,n,60154,6065,33.0000013113022%
+075,Plaquemines Par,n,n,n,n,n,10481,817,23.9999994635582%
+077,Pointe Coupee P,n,n,n,n,n,10297,1741,33.0000013113022%
+079,Rapides Parish,13,1,7,53.7999987602234%,4,52038,8014,30.0000011920929%
+087,St. Bernard Par,n,n,n,n,n,26790,1875,17.0000001788139%
+089,St. Charles Par,n,n,n,n,n,17430,1217,18.0000007152557%
+091,St. Helena Pari,n,n,n,n,n,5034,445,34.0000003576279%
+095,St. John the Ba,n,n,n,n,n,15532,1184,25%
+101,St. Mary Parish,n,n,n,n,n,21650,3744,33.0000013113022%
+103,St. Tammany Par,n,n,n,n,n,75398,4278,12.9999995231628%
+105,Tangipahoa Pari,5,1,3,60.0000023841858%,0,40794,4533,30.0000011920929%
+107,Tensas Parish,n,n,n,n,n,3359,611,41.9999986886978%
+111,Union Parish,n,n,n,n,n,10873,1355,27.0000010728836%
+113,Vermilion Paris,n,n,n,n,n,22461,4342,30.0000011920929%
+115,Vernon Parish,n,n,n,n,n,21030,1683,20.0000002980232%
+117,Washington Pari,n,n,n,n,n,19106,3516,37.9999995231628%
+119,Webster Parish,n,n,n,n,n,18991,3014,30.0000011920929%
+121,West Baton Roug,n,n,n,n,n,8370,1132,21.9999998807907%
+*# of Addresses where address state not in selected state: 22,# of Addresses where program state is not in selected state: 0,,,,,,,,
+,,,,,,,,,
+"* Based on most recent five years of data, 2008-2012",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

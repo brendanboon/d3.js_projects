@@ -1,0 +1,15 @@
+"CBLS County-level Summary Data for CT, 2005",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Screening Rate (# tested / population),Total # of Confirmed Cases,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,,"Estimated Population of Children < 6, 2005"
+,,,,,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty,
+001,Fairfield County,21235,27.7567186029489%,310,190,339466,106768,7.99999982118607%,76504
+003,Hartford County,15179,23.0218555199976%,305,122,353022,106709,12.9999995231628%,65933
+005,Litchfield County,1699,13.0782849665153%,25,8,79267,27886,5.00000007450581%,12991
+007,Middlesex County,2353,20.3037363016654%,12,3,67285,18551,3.99999991059303%,11589
+009,New Haven County,18620,29.2601672009554%,525,210,340732,113128,14.0000000596046%,63636
+011,New London County,5056,25.5831604513485%,65,27,110674,36188,10.0000001490116%,19763
+013,Tolland County,1380,13.9506672058229%,13,3,51570,11210,5.00000007450581%,9892
+015,Windham County,2151,26.6344725111441%,37,16,43959,15444,12.9999995231628%,8076
+"* Based on most recent five years of data, 2001-2005",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,
+Connecticutt Total Confirmed Cases 2005,,1310,,,,,,,

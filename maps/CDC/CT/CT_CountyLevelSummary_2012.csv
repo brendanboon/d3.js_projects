@@ -1,0 +1,16 @@
+"CBLS County-level Summary Data for CT, 2012",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Confirmed Cases,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+001,Fairfield Count,22679,1030,123,0.499999988824129%,51,339466,106768,7.99999982118607%
+003,Hartford County,17916,703,109,0.600000005215406%,42,353022,106709,12.9999995231628%
+005,Litchfield Coun,2501,165,24,0.999999977648258%,8,79267,27886,5.00000007450581%
+007,Middlesex Count,2546,82,5,0.20000000949949%,1,67285,18551,3.99999991059303%
+009,New Haven Count,20591,1416,205,0.999999977648258%,96,340732,113128,14.0000000596046%
+011,New London Coun,4439,229,21,0.499999988824129%,7,110674,36188,10.0000001490116%
+013,Tolland County,1880,91,14,0.700000021606684%,4,51570,11210,5.00000007450581%
+015,Windham County,2619,187,29,1.09999999403954%,6,43959,15444,12.9999995231628%
+*# of Addresses where address state not in selected state: 0,# of Addresses where program state is not in selected state: 1,,,,,,,,
+,,,,,,,,,
+"* Based on most recent five years of data, 2008-2012",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

@@ -1,0 +1,13 @@
+"CBLS County-level Summary Data for RI, 2014",,,,,,,,,
+,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Total # Children Tested 5-9 µg/dL,Total Confirmed BLL ?10 µg/dL,,# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,
+,,,,Total #,Total %,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty
+998,Unknown County,6,.,0,0%,0,,,
+001,Bristol County,1177,31,2,0.20000000949949%,2,19881,8417,7.00000002980232%
+003,Kent County,3355,82,15,0.400000018998981%,3,70365,20216,10.0000001490116%
+005,Newport County,1613,62,5,0.300000002607703%,2,39561,15162,12.9999995231628%
+007,Providence Coun,17905,878,185,0.999999977648258%,50,253214,115380,25%
+009,Washington Coun,1676,56,5,0.300000002607703%,2,56816,13237,7.00000002980232%
+,,,,,,,,,
+"* Based on most recent five years of data, 2010-2014",,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,

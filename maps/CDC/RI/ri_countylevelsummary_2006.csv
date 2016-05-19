@@ -1,0 +1,14 @@
+"CBLS County-level Summary Data for RI, 2006",,,,,,,,,,
+,,,,,,,,,,
+County FIPS,County Name,# of Children Tested,Screening Rate (# tested / population),Total # of Confirmed Cases,Case Rate (# Confirmed / #Tested),# of Addresses- Multiple Children w/ Confirmed EBLLs *,Census 2000 Data,,,"Estimated Population of Children < 6, 2006"
+,,,,,,,Total Housing Units,Pre-1950 Housing Units,% of Children < 6 Under Poverty,
+001,Bristol County,1668,59.3999981880188%,24,1.43884892086331%,7,19881,8417,7.00000002980232%,2810
+003,Kent County,3958,36.7000013589859%,32,0.808489135927236%,11,70365,20216,10.0000001490116%,10785
+005,Newport County,2826,55.8000028133392%,23,0.813871196036801%,6,39561,15162,12.9999995231628%,5068
+007,Providence County,21253,44.1000014543533%,680,3.19954829906366%,311,253214,115380,25%,48240
+009,Washington County,2848,37.5999987125397%,24,0.842696629213483%,12,56816,13237,7.00000002980232%,7565
+999,Unknown,,,,,,,,,
+,,,,,,,,,,
+"* Based on most recent five years of data, 2002-2006",,,,,,,,,,
+n - indicates data suppressed because less than 5 children were tested in area,,,,,,,,,,
+Rhode Island Total Confirmed Cases 2006,,783,,,,,,,,

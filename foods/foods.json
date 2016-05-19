@@ -52,12 +52,12 @@
   "calories": 83
  }, 
  {"type":"drink",
-  "name" : "Coca Cola",
-  "calories": 182
+  "name" : "Coffee",
+  "calories": 50
  },
  {"type":"drink",
-  "name" : "Sprite",
-  "calories": 192
+  "name" : "Tea",
+  "calories": 40
  },
  {"type":"grain",
   "name" : "Oatmeal",
