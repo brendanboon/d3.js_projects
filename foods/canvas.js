@@ -86,7 +86,7 @@ function foodsModel(){
             name : _name,
             calories : _cal,
             type : _type,
-            radius : (.42 * _cal), //scaling circle radius based on calorie count
+            radius : (.45 * _cal), //scaling circle radius based on calorie count
             color : color,
             cx : (i * 380) - 200, //placing x value on page with relation to i value assigned above
             cy : 300,
