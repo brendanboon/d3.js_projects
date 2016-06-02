@@ -1,4 +1,4 @@
-
+#Command run through each directory and converts each .xls file into .csv 
 #for dir in */;
 #do
 #	for f in $(find $dir -name '*.xls' -or -name '*.xlsx'); 
@@ -6,6 +6,8 @@
 #	done
 #done
 
+#these commands go through each directory and run the data scraper
+#It compiles formatted data by county into the output.csv file
 python parser.py '02' AK
 python parser.py '28' MS
 python parser.py '01' AL
