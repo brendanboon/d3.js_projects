@@ -5,6 +5,13 @@
 #and combines them into a single organized csv file. This python script is ran with a bash script in this
 #same directory.
 
+#This script is called with two arguments.
+#@args: State FIPS code. This is necessary to prefix the state identifier to the local fips code on each
+# counties csv data. This allows the data to correspond with a US topojson.
+#@args: State directory. Include the name of the directory for each state that is being called. This way
+# the loop knows which directory to scrape data from. In the external script, you will run this scraper 50 times. 
+# Once for each state.
+
 import csv
 import glob
 import os
